@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-weight: 200;
+}
+p {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.teamCard img {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  display: block;
+}
+.teamCard h4 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+.teamCard h6 {
+  font-size: 12px;
+  font-weight: 300;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.teamCard h5 {
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 5px;
+  margin-bottom: 0px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.teamCard p.flag {
+  position: absolute;
+  top: 0;
+  right: 10px;
 }

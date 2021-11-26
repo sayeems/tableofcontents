@@ -1,0 +1,17 @@
+{
+    "overview":{
+        "title":"Here goes the title",
+        "details": [
+            "first line",
+            "Second line"
+        ]
+    },
+    "table":{
+        "headers":[
+            "Project",
+            "Details",
+            "Tech",
+            "Link"
+        ]
+    }
+}
