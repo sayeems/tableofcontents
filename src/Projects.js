@@ -11,13 +11,17 @@ import {
     TableRow,
     Chip,
     Stack,
-    Fab
+    Fab,
+    CheckCircle
 } from '@mui/material';
 
 import {
     GitHub,
-    InsertLink
+    InsertLink,
+    Done
 } from '@mui/icons-material';
+
+import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 
 const Projects = () => {
     const [loading, setLoading] = useState(true);
@@ -51,7 +55,7 @@ const Projects = () => {
                             <TableRow key={`body_${index}`}>
                                 {body.map((b,i)=><>
                                 <TableCell key={`con_${i}`}>
-                                    {Array.isArray(b) ? b.map((c,ndx)=> <Chip style={{marginRight:'2px'}} label={c} key={`chip_${ndx}`}/>
+                                    {Array.isArray(b) ? b.map((c,ndx)=> <Chip icon={<CheckCircleIcon />} color="info" size="small" style={{marginRight:'2px'}} label={c} key={`chip_${ndx}`}/>
                                     )
                                     : typeof(b) == "object" ? 
                                     <>

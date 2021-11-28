@@ -11,21 +11,49 @@
             "image": "/raju_bhai.jpeg",
             "designation": "CSE Support",
             "country": "🇧🇩",
-            "title": "..........."
+            "title": "TBD"
         },
         {
             "name":"Sabbir Hossain",
             "image": "/sabbir.jpg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "...."
+            "title": "TBD"
         },
         {
-            "name":"Sayeem Mohammad Shahria",
-            "image": "https://sayeem.com/images/photo.jpg",
+            "name":"Sazzad Hossain",
+            "image": "/sazzad.jpg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "Lifelong learner, Football fan"
+            "title": "TBD"
+        },
+        {
+            "name":"Sayeem Shahria",
+            "image": "/sayeem.jpeg",
+            "designation": "CSE Decouple",
+            "country": "🇧🇩",
+            "title": "Lifelong learner, football lover"
+        },
+        {
+            "name":"AKM Miraz",
+            "image": "/miraz.jpeg",
+            "designation": "CSE Decouple",
+            "country": "🇧🇩",
+            "title": "TBD"
+        },
+        {
+            "name":"AL Mamun",
+            "image": "/mamun.jpg",
+            "designation": "CSE Decouple",
+            "country": "🇧🇩",
+            "title": "TBD"
+        },
+        {
+            "name":"Mahadi Hasan",
+            "image": "/mahadi.jpeg",
+            "designation": "CSE Decouple",
+            "country": "🇧🇩",
+            "title": "TBD"
         }
     ]
 }

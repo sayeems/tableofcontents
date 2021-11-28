@@ -13,12 +13,12 @@
     ],
     "tableBody":[
         [
-            "D9 Decoupled",
-            "Pantheon Drupal",
-            ["React", "Node", "Circle CI", "Docker"],
+            "WP-Headless-C1",
+            "Pantheon-WP-REST",
+            ["Woocommerce", "React", "Docker", "Circle CI"],
             {
-                "github":"https://www.github.com",
-                "live":"https://www.sayeem.com"
+                "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v1",
+                "live":"https://woocommercereact-qmjsjqjlvq-uc.a.run.app"
             }
         ],
         [

@@ -37,3 +37,7 @@ p {
   top: 0;
   right: 10px;
 }
+
+.MuiButtonBase-root.active {
+  background-color: #ffdc28;
+}

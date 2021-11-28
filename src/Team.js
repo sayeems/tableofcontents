@@ -12,7 +12,8 @@ import {
     Chip,
     Stack,
     Fab,
-    Paper
+    Paper,
+    Avatar
 } from '@mui/material';
 
 import {
@@ -45,13 +46,27 @@ const Team = () => {
                 {/* members */}
                 <Grid container spacing={2}>
                     {data.team.map((t,index)=><>
-                        <Grid item md={3} xs={6} key={`tm_${index}`}>
+                        <Grid item md={4} lg={4} xs={12} md={6} key={`tm_${index}`}>
                             <Paper style={{padding:'15px', backgroundColor:'#fefefe', position:'relative'}} className="teamCard" >
-                                <img src={t.image} alt="" />
-                                <h4>{t.name}</h4>
-                                <h6>{t.designation}</h6>
-                                <Divider />
-                                <h5>{t.title}</h5>
+                                <Stack direction="row" spacing={2}>
+                                    {
+                                    t.image ? 
+                                    <Avatar 
+                                    src={t.image}
+                                    sx={{width:100, height:100}}
+                                    />
+                                    :
+                                    <Avatar
+                                    sx={{width:100, height:100}}
+                                    >{t.name.split("")[0]}</Avatar>
+                                    }
+                                    <Stack direction="column" sx={{width:'100%'}}>
+                                        <h4>{t.name}</h4>
+                                        <h6>{t.designation}</h6>
+                                        <Divider/>
+                                        <h5>{t.title}</h5>
+                                    </Stack>
+                                </Stack>
                                 <p className="flag">{t.country}</p>
                             </Paper>
                         </Grid>
