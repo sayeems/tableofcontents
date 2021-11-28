@@ -29,7 +29,7 @@ export const mainListItems = (
       <ListItemIcon>
         <Groups style={{color:'#000000'}} />
       </ListItemIcon>
-      <ListItemText primary="Team" />
+      <ListItemText primary="Bootcamp Team" />
     </ListItem>
   </div>
 );

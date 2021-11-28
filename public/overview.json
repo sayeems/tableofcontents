@@ -1,18 +1,19 @@
 {
     "overviews":[
         {
-            "title": "Bootcamp Overview",
+            "title": "Bootcamp overview",
             "description": [
                 "We went through a four week long bootcamp sessions to understand and crack the decouple architecture",
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
             ]
         },
         {
-            "title": "Outcome",
+            "title": "Decouple Architecture",
             "description": [
                 "We went through a four week long bootcamp sessions to understand and crack the decouple architecture",
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-            ]
+            ],
+            "iframe":"https://docs.google.com/presentation/d/e/2PACX-1vQsT-pwbay4pq2n6FLGAoSrjPnM4S02Tc0izwGQT_lvRB18VI4N-syHxzJ2XZBTRsKtpoffvXOAgpDM/embed?start=false&loop=false&delayms=3000"
         }
     ]
 }

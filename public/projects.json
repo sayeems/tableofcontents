@@ -7,27 +7,24 @@
     ],
     "tableHeads":[
         "Project Name",
-        "API",
-        "Technology Implemented",
+        "API Endpoints",
+        "PaaS Provider",
+        "Front-end",
+        "PaaS Provider",
+        "Build Tools",
         "Link"
     ],
     "tableBody":[
         [
             "WP-Headless-C1",
-            "Pantheon-WP-REST",
-            ["Woocommerce", "React", "Docker", "Circle CI"],
+            "WP-REST",
+            "Pantheon",
+            ["React"],
+            "GCP Docker Platform",
+            ["Woocommerce", "Git", "Docker", "CircleCI"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v1",
                 "live":"https://woocommercereact-qmjsjqjlvq-uc.a.run.app"
-            }
-        ],
-        [
-            "WP Headless",
-            "Pantheon WP",
-            ["React", "Node", "Circle CI", "Docker"],
-            {
-                "github":"https://www.github.com",
-                "live":"https://www.sayeem.com"
             }
         ]
     ]

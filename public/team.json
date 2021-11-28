@@ -1,9 +1,8 @@
 {
     
-    "pageTitle": "Our team",
+    "pageTitle": "Bootcamp Team",
     "description": [
-        "Our Team",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ""
     ],
     "team":[
         {
@@ -11,21 +10,21 @@
             "image": "/raju_bhai.jpeg",
             "designation": "CSE Support",
             "country": "🇧🇩",
-            "title": "TBD"
+            "title": "Code Warrior"
         },
         {
             "name":"Sabbir Hossain",
             "image": "/sabbir.jpg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "TBD"
+            "title": "JavaScript Guru"
         },
         {
-            "name":"Sazzad Hossain",
+            "name":"Sazzadul Islam",
             "image": "/sazzad.jpg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "TBD"
+            "title": "Passionate about self improvement"
         },
         {
             "name":"Sayeem Shahria",
@@ -39,21 +38,28 @@
             "image": "/miraz.jpeg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "TBD"
+            "title": "Decoupled Ninja"
         },
         {
             "name":"AL Mamun",
             "image": "/mamun.jpg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "TBD"
+            "title": "Decoupled Warrior"
         },
         {
             "name":"Mahadi Hasan",
             "image": "/mahadi.jpeg",
             "designation": "CSE Decouple",
             "country": "🇧🇩",
-            "title": "TBD"
+            "title": "Consistent learner"
+        },
+        {
+            "name":"Jahidul Rassel",
+            "image": "/rassel.jpeg",
+            "designation": "CSE Decouple",
+            "country": "🇧🇩",
+            "title": "Coding is fun"
         }
     ]
 }
