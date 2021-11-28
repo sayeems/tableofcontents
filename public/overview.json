@@ -3,17 +3,17 @@
         {
             "title": "Bootcamp overview",
             "description": [
-                "We went through a four week long bootcamp sessions to understand and crack the decouple architecture",
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "A group of warriors has come up with an 8 weeks code exploration hackathon in order to build different types of decoupled applications backed by   WordPress and Drupal as backend data endpoints.",
+                "Team has built 8 containerized front end apps by integrating a few hosted WP and DP  from pantheon platform. These apps have been deployed on GCP cloud run platform.",
+                "These 8 containerized apps have been built and deployed on cloud run by using CircleCI."
             ]
         },
         {
             "title": "Decouple Architecture",
             "description": [
-                "We went through a four week long bootcamp sessions to understand and crack the decouple architecture",
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                ""
             ],
-            "iframe":"https://docs.google.com/presentation/d/e/2PACX-1vQsT-pwbay4pq2n6FLGAoSrjPnM4S02Tc0izwGQT_lvRB18VI4N-syHxzJ2XZBTRsKtpoffvXOAgpDM/embed?start=false&loop=false&delayms=3000"
+            "iframe":"https://docs.google.com/presentation/d/e/2PACX-1vTwPRkQnPhKLRoTWCKmNeUoRgskduMuPLkr2u-y3ysNpiuoKZDrJpo1LhmOuV-oWDuWdxziRUG3vYCq/embed?start=false&loop=false&delayms=3000"
         }
     ]
 }

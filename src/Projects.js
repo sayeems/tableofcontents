@@ -55,17 +55,17 @@ const Projects = () => {
                             <TableRow key={`body_${index}`}>
                                 {body.map((b,i)=><>
                                 <TableCell key={`con_${i}`}>
-                                    {Array.isArray(b) ? b.map((c,ndx)=> <Chip icon={<CheckCircleIcon />} color="info" size="small" style={{marginRight:'2px'}} label={c} key={`chip_${ndx}`}/>
+                                    {Array.isArray(b) ? b.map((c,ndx)=> <Chip icon={<CheckCircleIcon />} color="info" size="small" style={{marginRight:'2px', marginBottom:'2px'}} label={c} key={`chip_${ndx}`}/>
                                     )
                                     : typeof(b) == "object" ? 
-                                    <>
-                                    <Fab target="_blank" href={b.github} size="small" color="secondary">
-                                        <GitHub />
-                                    </Fab>
-                                    <Fab style={{marginLeft:'5px'}} target="_blank" href={b.live} size="small" color="primary">
-                                        <InsertLink />
-                                    </Fab>
-                                    </>
+                                    <Stack direction="row">
+                                        <Fab target="_blank" href={b.github} size="small" color="secondary">
+                                            <GitHub />
+                                        </Fab>
+                                        <Fab style={{marginLeft:'5px'}} target="_blank" href={b.live} size="small" color="primary">
+                                            <InsertLink />
+                                        </Fab>
+                                    </Stack>
                                     : b}
                                 </TableCell>
                                 </>)}
