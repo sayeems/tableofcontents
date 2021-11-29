@@ -62,9 +62,16 @@ const Projects = () => {
                                         <Fab target="_blank" href={b.github} size="small" color="secondary">
                                             <GitHub />
                                         </Fab>
+                                        {b.live ? 
                                         <Fab style={{marginLeft:'5px'}} target="_blank" href={b.live} size="small" color="primary">
                                             <InsertLink />
                                         </Fab>
+                                        :
+                                        <Fab disabled style={{marginLeft:'5px'}} target="_blank" href={b.live} size="small" color="primary">
+                                            <InsertLink />
+                                        </Fab>
+                                        }
+                                        
                                     </Stack>
                                     : b}
                                 </TableCell>

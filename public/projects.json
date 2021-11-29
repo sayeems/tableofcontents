@@ -62,6 +62,54 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v2",
                 "live":"https://akm-wp-hl-v2-qmjsjqjlvq-uc.a.run.app/"
             }
+        ],
+        [
+            "WP-Decoupled-C4",
+            "WP-GQL",
+            "Pantheon",
+            ["Gatsby"],
+            "GCP Docker Platform",
+            ["WPGraphQL", "Git", "Docker", "CircleCI", "Node.js"],
+            {
+                "github":"https://github.com/DevsLineReflection/pantheon-wp-gql-gatsby-v1",
+                "live":""
+            }
+        ],
+        [
+            "DP-Decoupled-C5",
+            "Node Server",
+            "Pantheon",
+            ["Next.js"],
+            "GCP Docker Platform",
+            ["Git", "Docker", "CircleCI", "Node.js"],
+            {
+                "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
+                "live":""
+            }
+        ],
+        [
+            "Static-Gatsby-C6",
+            "N/A",
+            "N/A",
+            ["Gatsby"],
+            "GCP Docker Platform",
+            ["Git", "Docker", "CircleCI", "Node.js"],
+            {
+                "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
+                "live":""
+            }
+        ],
+        [
+            "DP-Decoupled-C7",
+            "DP-REST",
+            "Pantheon",
+            ["React"],
+            "GCP Docker Platform",
+            ["JSON:API", "Git", "Docker", "CircleCI", "Node.js"],
+            {
+                "github":"https://github.com/DevsLineReflection/pantheon-decoupled-frontend",
+                "live":"https://app-qmjsjqjlvq-uc.a.run.app"
+            }
         ]
     ]
 }

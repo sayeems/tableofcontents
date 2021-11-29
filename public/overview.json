@@ -1,7 +1,7 @@
 {
     "overviews":[
         {
-            "title": "Bootcamp overview",
+            "title": "Bootcamp Overview",
             "description": [
                 "A group of warriors has come up with an 8 weeks code exploration hackathon in order to build different types of decoupled applications backed by   WordPress and Drupal as backend data endpoints.",
                 "Team has built 8 containerized front end apps by integrating a few hosted WP and DP  from pantheon platform. These apps have been deployed on GCP cloud run platform.",
