@@ -24,7 +24,9 @@
             ["Woocommerce", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v1",
-                "live":"https://woocommercereact-qmjsjqjlvq-uc.a.run.app"
+                "live":"https://woocommercereact-qmjsjqjlvq-uc.a.run.app",
+                "doc":"https://docs.google.com/document/d/1Vq--CJa6nxC034n2-07b72TX7uNRqkzGgRQ9Asd5UJM/edit?usp=sharing",
+                "dev":"Sayeem Shahria"
             }
         ],
         [
@@ -36,7 +38,9 @@
             ["Drupal/Next", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-decoupled-nextjs-v2",
-                "live":"https://drupal-next-v2-qmjsjqjlvq-uc.a.run.app"
+                "live":"https://drupal-next-v2-qmjsjqjlvq-uc.a.run.app",
+                "doc":"",
+                "dev":""
             }
         ],
         [
@@ -48,7 +52,9 @@
             ["JSON:API", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-v1",
-                "live":"https://nextv1-qmjsjqjlvq-uc.a.run.app"
+                "live":"https://nextv1-qmjsjqjlvq-uc.a.run.app",
+                "doc":"",
+                "dev":""
             }
         ],
         [
@@ -60,7 +66,9 @@
             ["wp-json", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v2",
-                "live":"https://akm-wp-hl-v2-qmjsjqjlvq-uc.a.run.app/"
+                "live":"https://akm-wp-hl-v2-qmjsjqjlvq-uc.a.run.app/",
+                "doc":"",
+                "dev":""
             }
         ],
         [
@@ -72,7 +80,9 @@
             ["WPGraphQL", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-gql-gatsby-v1",
-                "live":""
+                "live":"",
+                "doc":"",
+                "dev":""
             }
         ],
         [
@@ -84,7 +94,9 @@
             ["Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
-                "live":""
+                "live":"",
+                "doc":"",
+                "dev":""
             }
         ],
         [
@@ -96,7 +108,9 @@
             ["Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
-                "live":""
+                "live":"",
+                "doc":"",
+                "dev":""
             }
         ],
         [
@@ -108,7 +122,9 @@
             ["JSON:API", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-decoupled-frontend",
-                "live":"https://app-qmjsjqjlvq-uc.a.run.app"
+                "live":"https://app-qmjsjqjlvq-uc.a.run.app",
+                "doc":"",
+                "dev":"Sayeem Shahria"
             }
         ]
     ]

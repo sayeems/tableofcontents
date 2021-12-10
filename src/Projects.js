@@ -12,13 +12,15 @@ import {
     Chip,
     Stack,
     Fab,
-    CheckCircle
+    CheckCircle,
+    Tooltip
 } from '@mui/material';
 
 import {
     GitHub,
     InsertLink,
-    Done
+    Done,
+    Article
 } from '@mui/icons-material';
 
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
@@ -59,9 +61,11 @@ const Projects = () => {
                                     )
                                     : typeof(b) == "object" ? 
                                     <Stack direction="row">
-                                        <Fab target="_blank" href={b.github} size="small" color="secondary">
-                                            <GitHub />
-                                        </Fab>
+                                        <Tooltip title={b.dev} arrow placement="top">
+                                            <Fab target="_blank" href={b.github} size="small" color="secondary">
+                                                <GitHub />
+                                            </Fab>
+                                        </Tooltip>
                                         {b.live ? 
                                         <Fab style={{marginLeft:'5px'}} target="_blank" href={b.live} size="small" color="primary">
                                             <InsertLink />
@@ -69,6 +73,15 @@ const Projects = () => {
                                         :
                                         <Fab disabled style={{marginLeft:'5px'}} target="_blank" href={b.live} size="small" color="primary">
                                             <InsertLink />
+                                        </Fab>
+                                        }
+                                        {b.doc ? 
+                                        <Fab style={{marginLeft:'5px'}} target="_blank" href={b.doc} size="small" color="secondary">
+                                            <Article />
+                                        </Fab>
+                                        :
+                                        <Fab disabled style={{marginLeft:'5px'}} target="_blank" href={b.doc} size="small" color="secondary">
+                                            <Article />
                                         </Fab>
                                         }
                                         
