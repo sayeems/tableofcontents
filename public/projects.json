@@ -26,7 +26,8 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v1",
                 "live":"https://woocommercereact-qmjsjqjlvq-uc.a.run.app",
                 "doc":"https://docs.google.com/document/d/1Vq--CJa6nxC034n2-07b72TX7uNRqkzGgRQ9Asd5UJM/edit?usp=sharing",
-                "dev":"Sayeem Shahria"
+                "dev":"Sayeem Shahria",
+                "pantheon":"https://dev-wpsayeem.pantheonsite.io/wp-login.php?username:%22dteam%22?password:%22line142536%22"
             }
         ],
         [
@@ -40,7 +41,8 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-decoupled-nextjs-v2",
                 "live":"https://drupal-next-v2-qmjsjqjlvq-uc.a.run.app",
                 "doc":"",
-                "dev":""
+                "dev":"Sabbir Hossain",
+                "pantheon":""
             }
         ],
         [
@@ -54,11 +56,12 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-v1",
                 "live":"https://nextv1-qmjsjqjlvq-uc.a.run.app",
                 "doc":"",
-                "dev":""
+                "dev":"Al Mamun",
+                "pantheon":""
             }
         ],
         [
-            "WP-Headless-C1",
+            "WP-Headless-C4",
             "WP-REST",
             "Pantheon",
             ["React"],
@@ -68,11 +71,12 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v2",
                 "live":"https://akm-wp-hl-v2-qmjsjqjlvq-uc.a.run.app/",
                 "doc":"",
-                "dev":""
+                "dev":"AKM Miraz",
+                "pantheon":""
             }
         ],
         [
-            "WP-Decoupled-C4",
+            "WP-Decoupled-C5",
             "WP-GQL",
             "Pantheon",
             ["Gatsby"],
@@ -80,27 +84,29 @@
             ["WPGraphQL", "Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-gql-gatsby-v1",
-                "live":"",
+                "live":"https://gatsbyghql-qmjsjqjlvq-uc.a.run.app",
                 "doc":"",
-                "dev":""
+                "dev":"Al Mamun",
+                "pantheon":""
             }
         ],
         [
-            "DP-Decoupled-C5",
+            "DP-Decoupled-C6",
             "Node Server",
             "Pantheon",
             ["Next.js"],
             "GCP Docker Platform",
-            ["Git", "Docker", "CircleCI", "Node.js"],
+            ["Git", "Docker", "CircleCI", "Node.js", "Middleware Architecture"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
                 "live":"",
                 "doc":"",
-                "dev":""
+                "dev":"Al Mamun",
+                "pantheon":""
             }
         ],
         [
-            "Static-Gatsby-C6",
+            "Static-Gatsby-C7",
             "N/A",
             "N/A",
             ["Gatsby"],
@@ -110,11 +116,12 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
                 "live":"",
                 "doc":"",
-                "dev":""
+                "dev":"AKM Miraz",
+                "pantheon":""
             }
         ],
         [
-            "DP-Decoupled-C7",
+            "DP-Decoupled-C8",
             "DP-REST",
             "Pantheon",
             ["React"],
@@ -124,7 +131,8 @@
                 "github":"https://github.com/DevsLineReflection/pantheon-decoupled-frontend",
                 "live":"https://app-qmjsjqjlvq-uc.a.run.app",
                 "doc":"",
-                "dev":"Sayeem Shahria"
+                "dev":"Sayeem Shahria",
+                "pantheon":""
             }
         ]
     ]

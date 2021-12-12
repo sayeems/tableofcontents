@@ -20,7 +20,8 @@ import {
     GitHub,
     InsertLink,
     Done,
-    Article
+    Article,
+    ConnectWithoutContact
 } from '@mui/icons-material';
 
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
@@ -82,6 +83,15 @@ const Projects = () => {
                                         :
                                         <Fab disabled style={{marginLeft:'5px'}} target="_blank" href={b.doc} size="small" color="secondary">
                                             <Article />
+                                        </Fab>
+                                        }
+                                        {b.pantheon ? 
+                                        <Fab style={{marginLeft:'5px'}} target="_blank" href={b.pantheon} size="small" color="primary">
+                                            <ConnectWithoutContact />
+                                        </Fab>
+                                        :
+                                        <Fab disabled style={{marginLeft:'5px'}} target="_blank" href={b.pantheon} size="small" color="primary">
+                                            <ConnectWithoutContact />
                                         </Fab>
                                         }
                                         
