@@ -25,7 +25,7 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v1",
                 "live":"https://woocommercereact-qmjsjqjlvq-uc.a.run.app",
-                "doc":"https://docs.google.com/document/d/1Vq--CJa6nxC034n2-07b72TX7uNRqkzGgRQ9Asd5UJM/edit?usp=sharing",
+                "doc":"https://docs.google.com/document/d/1GpfqcclfWOWFS3x8Ml3Gf8A7T7Mx7yoDNctUitarZGE/edit?usp=sharing",
                 "dev":"Sayeem Shahria",
                 "pantheon":"https://dev-wpsayeem.pantheonsite.io/wp-login.php?username:%22dteam%22?password:%22line142536%22"
             }
@@ -40,7 +40,7 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-decoupled-nextjs-v2",
                 "live":"https://drupal-next-v2-qmjsjqjlvq-uc.a.run.app",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/1ym2PDaIuOj8sFYVPZrTYbCH_kjoYxtYp/edit?usp=sharing&ouid=109060627273534693067&rtpof=true&sd=true",
                 "dev":"Sabbir Hossain",
                 "pantheon":""
             }
@@ -55,7 +55,7 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-v1",
                 "live":"https://nextv1-qmjsjqjlvq-uc.a.run.app",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/157Ly8GrYcRNOgrxZ6KcD8xu6IkHxDpZwB89728VySQo/edit?usp=sharing",
                 "dev":"Al Mamun",
                 "pantheon":""
             }
@@ -100,7 +100,7 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
                 "live":"",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/17ChY8_5FJPA0IKc5XN_yEZ3BNbkBP1DI-ZYSBA7wpsU/edit?usp=sharing",
                 "dev":"Al Mamun",
                 "pantheon":""
             }
@@ -115,7 +115,7 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
                 "live":"",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/1lWmsNMYYEIlzLCwhWzaK0YTQjvs8PgmRmj0ocUmtoGk/edit?usp=sharing",
                 "dev":"AKM Miraz",
                 "pantheon":""
             }
@@ -130,9 +130,9 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-decoupled-frontend",
                 "live":"https://app-qmjsjqjlvq-uc.a.run.app",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/1Y2LdfluFGFjhVNe-7ovD8lFpsADJtf8ZyNl1CAh8a24/edit?usp=sharing",
                 "dev":"Sayeem Shahria",
-                "pantheon":""
+                "pantheon":"https://dev-devsayeem.pantheonsite.io/user/login?username:--sayeem--password:--142536--"
             }
         ]
     ]

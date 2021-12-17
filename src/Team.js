@@ -73,7 +73,9 @@ const Team = () => {
                         
                     </>)}
                 </Grid>
-            
+                <Grid item sm={12} style={{marginTop:'30px'}}>
+                    <img src="/the_team.jpeg" alt="" />
+                </Grid>
             </>}
         </Grid>
      );
