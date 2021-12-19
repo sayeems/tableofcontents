@@ -42,7 +42,7 @@
                 "live":"https://drupal-next-v2-qmjsjqjlvq-uc.a.run.app",
                 "doc":"https://docs.google.com/document/d/1ym2PDaIuOj8sFYVPZrTYbCH_kjoYxtYp/edit?usp=sharing&ouid=109060627273534693067&rtpof=true&sd=true",
                 "dev":"Sabbir Hossain",
-                "pantheon":""
+                "pantheon":"https://dev-houseofgods.pantheonsite.io/user/login?username--localuser--password--abc1234--"
             }
         ],
         [
@@ -57,7 +57,7 @@
                 "live":"https://nextv1-qmjsjqjlvq-uc.a.run.app",
                 "doc":"https://docs.google.com/document/d/157Ly8GrYcRNOgrxZ6KcD8xu6IkHxDpZwB89728VySQo/edit?usp=sharing",
                 "dev":"Al Mamun",
-                "pantheon":""
+                "pantheon":"https://dev-news-dec.pantheonsite.io/user/login?username--test_user--password--almamun@123--"
             }
         ],
         [
@@ -70,9 +70,9 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-headless-react-v2",
                 "live":"https://akm-wp-hl-v2-qmjsjqjlvq-uc.a.run.app/",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/1JRNs89TUxQKoYmD-oAKFL4FfrUWa2BYwmqxWUYFv_Go/edit#heading=h.68dd3botnoo7",
                 "dev":"AKM Miraz",
-                "pantheon":""
+                "pantheon":"https://dev-akm-wp-dcop.pantheonsite.io/wp-login.php?username--miraz--password--pandcophladmin--"
             }
         ],
         [
@@ -85,9 +85,9 @@
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-wp-gql-gatsby-v1",
                 "live":"https://gatsbyghql-qmjsjqjlvq-uc.a.run.app",
-                "doc":"",
+                "doc":"https://docs.google.com/document/d/1myCbg7iDboQGZuwBvyHZCwnRY5Px1cSqpMcDi8X5q08/edit?usp=sharing",
                 "dev":"Al Mamun",
-                "pantheon":""
+                "pantheon":"https://dev-wp-almamun-blog.pantheonsite.io/wp-login.php?username--wp_almamun_techblog--almamun@#123--"
             }
         ],
         [
@@ -102,7 +102,7 @@
                 "live":"",
                 "doc":"https://docs.google.com/document/d/17ChY8_5FJPA0IKc5XN_yEZ3BNbkBP1DI-ZYSBA7wpsU/edit?usp=sharing",
                 "dev":"Al Mamun",
-                "pantheon":""
+                "pantheon":"https://dev-news-dec.pantheonsite.io/user/login?username--test_user--password--almamun@123--"
             }
         ],
         [
@@ -114,7 +114,7 @@
             ["Git", "Docker", "CircleCI", "Node.js"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
-                "live":"",
+                "live":"https://c7-gatsby-static-dkr-img-qmjsjqjlvq-uc.a.run.app/",
                 "doc":"https://docs.google.com/document/d/1lWmsNMYYEIlzLCwhWzaK0YTQjvs8PgmRmj0ocUmtoGk/edit?usp=sharing",
                 "dev":"AKM Miraz",
                 "pantheon":""
