@@ -99,7 +99,7 @@
             ["Git", "Docker", "CircleCI", "Node.js", "Middleware Architecture"],
             {
                 "github":"https://github.com/DevsLineReflection/pantheon-dp-decoupled-next-node-v1",
-                "live":"",
+                "live":"https://nextapp-nodeapi-qmjsjqjlvq-uc.a.run.app",
                 "doc":"https://docs.google.com/document/d/17ChY8_5FJPA0IKc5XN_yEZ3BNbkBP1DI-ZYSBA7wpsU/edit?usp=sharing",
                 "dev":"Al Mamun",
                 "pantheon":"https://dev-news-dec.pantheonsite.io/user/login?username--test_user--password--almamun@123--"
